@@ -1,0 +1,45 @@
+body{
+    color: #000000;
+    background-color: #E5E5E5;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+ul{
+    display: flex;
+    justify-content: flex-end;
+    list-style-type: none;
+    align-items: center;
+    padding: 27px;
+    font-size: 20px;
+    margin-top: 27px;
+    
+}
+
+li{
+    margin: 20px;
+}
+
+a{
+    color: #000000;
+    text-decoration: none;
+}
+
+img{
+    width: 243px;
+    height: 243px;
+    border-radius: 50%;
+    
+}
+.center{
+    text-align: center;
+}
+
+.marcos{
+    font-size: 44px;
+}
+
+.paragrafo{
+    font-size: 16px;
+}
+
