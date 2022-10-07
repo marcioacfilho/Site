@@ -1,6 +1,6 @@
 body{
     color: #000000;
-    background-color: #E5E5E5;
+    background-color: #FFFFFF;
     font-family: Arial, Helvetica, sans-serif;
 
 }
@@ -25,21 +25,169 @@ a{
     text-decoration: none;
 }
 
-img{
-    width: 243px;
-    height: 243px;
-    border-radius: 50%;
-    
-}
-.center{
-    text-align: center;
-}
+
+
 
 .marcos{
     font-size: 44px;
 }
 
 .paragrafo{
+    position: absolute;
+    width: 497px;
+    height: 66px;
+    left: 148px;
+    top: 373px;
+    
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
     font-size: 16px;
+    line-height: 24px;
+    
+    /* Dark Color */
+    
+    color: #21243D; font-size: 16px;
 }
+
+.marcos{
+    position: absolute;
+    width: 506px;
+    height: 105px;
+    left: 148px;
+    top: 228px;
+    
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 44px;
+    line-height: 60px;
+    /* or 136% */
+    
+    
+    /* Dark Color */
+    
+    color: #21243D;
+}
+
+.center #imgcenter
+{
+    position: absolute;
+    width: 243px;
+    height: 243px;
+    left: 760px;
+    top: 210px;
+}
+
+.caixabutton{
+        position: absolute;
+    width: 208px;
+    height: 47px;
+    left: 148px;
+    top: 477px;
+    background: #FF6464;
+    border-radius: 2px;
+}
+
+.caixabutton #button{
+    position: absolute;
+width: 167px;
+height: 21px;
+left: 30px;
+bottom: 1px;
+
+
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+
+color: #FFFFFF;
+
+}
+
+.zero{
+    position: absolute;
+width: 147px;
+height: 60px;
+left: 148px;
+top: 602px;
+
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 60px;
+/* identical to box height, or 273% */
+
+display: flex;
+align-items: flex-end;
+
+/* Dark Color */
+
+color: #21243D;
+
+}
+.navmeio{
+    position: absolute;
+width: 1152px;
+height: 396px;
+left: 0px;
+top: 595px;
+
+background: #EDF7FA;
+}
+
+h3{
+    position: absolute;
+width: 147px;
+height: 60px;
+left: 148px;
+top: 602px;
+
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 60px;
+/* identical to box height, or 273% */
+
+display: flex;
+align-items: flex-end;
+
+/* Dark Color */
+
+color: #21243D;
+}
+
+h1{
+    position: absolute;
+width: 374px;
+height: 85px;
+left: 171px;
+top: 688px;
+
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 700;
+font-size: 26px;
+line-height: 38px;
+
+/* Dark Color */
+
+color: #21243D;
+
+}
+
+.navmeio1{
+    position: absolute;
+width: 418px;
+height: 295px;
+background: #FFFFFF;
+box-shadow: 0px 4px 10px rgba(187, 225, 250, 0.25);
+border-radius: 4px;
+}
+
+
 
